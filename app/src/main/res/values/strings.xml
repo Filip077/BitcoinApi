@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bitcoin</string>
+
+    <string-array name="symbol_array">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>MKD</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>AUD</item>
+    </string-array>
+</resources>

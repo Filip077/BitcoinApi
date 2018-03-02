@@ -8,5 +8,7 @@
         <item>CHF</item>
         <item>CAD</item>
         <item>AUD</item>
+        <item>INR</item>
+        <item>BRL</item>
     </string-array>
 </resources>
